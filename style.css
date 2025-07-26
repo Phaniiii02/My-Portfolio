@@ -203,6 +203,9 @@ section {
   min-height: fit-content;
 }
 
+.text-container{
+  text-align: center;
+}
 .section-container {
   display: flex;
 }
